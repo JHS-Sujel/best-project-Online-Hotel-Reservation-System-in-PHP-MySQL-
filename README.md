@@ -70,6 +70,9 @@ Password: admin
 
 ![Screenshot (187)](https://user-images.githubusercontent.com/73945266/105053338-ff529e00-5a9a-11eb-9f96-858011404f32.png)
 
+- Room Booking 
+
+![Screenshot (188)](https://user-images.githubusercontent.com/73945266/105053344-01b4f800-5a9b-11eb-8314-01e3a9cefeed.png)
 
 # Admin Pannel Features 
 
