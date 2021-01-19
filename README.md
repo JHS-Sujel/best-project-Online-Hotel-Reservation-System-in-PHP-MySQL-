@@ -52,7 +52,3 @@ Accessing this system using the admin accounts:
 
 Username: admin
 Password: admin
-
-or
-
-Create Account
