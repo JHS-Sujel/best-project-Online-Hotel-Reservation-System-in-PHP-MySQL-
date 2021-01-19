@@ -52,3 +52,23 @@ Accessing this system using the admin accounts:
 
 Username: admin
 Password: admin
+
+---
+
+# Admin Pannel Features 
+
+
+![Screenshot (170)](https://user-images.githubusercontent.com/73945266/105051440-f6f96380-5a98-11eb-9434-f688e5484acb.png)
+
+![Screenshot (171)](https://user-images.githubusercontent.com/73945266/105051451-f95bbd80-5a98-11eb-8b27-a67367cc428b.png)
+
+![Screenshot (172)](https://user-images.githubusercontent.com/73945266/105051469-fd87db00-5a98-11eb-8b47-d3c822047a1d.png)
+
+![Screenshot (173)](https://user-images.githubusercontent.com/73945266/105051482-ffea3500-5a98-11eb-8e14-8b20f02fcea7.png)
+
+![Screenshot (174)](https://user-images.githubusercontent.com/73945266/105051488-01b3f880-5a99-11eb-8e7e-5b920d3d09a4.png)
+
+![Screenshot (175)](https://user-images.githubusercontent.com/73945266/105051495-037dbc00-5a99-11eb-8dff-310d9eab2b77.png)
+
+![Screenshot (176)](https://user-images.githubusercontent.com/73945266/105051505-05e01600-5a99-11eb-9781-d98d69c5db08.png)
+
