@@ -97,7 +97,7 @@ Password: admin
 - Home
 ![Screenshot (170)](https://user-images.githubusercontent.com/73945266/105051440-f6f96380-5a98-11eb-9434-f688e5484acb.png)
 
--Rooms
+- Rooms
 ![Screenshot (171)](https://user-images.githubusercontent.com/73945266/105051451-f95bbd80-5a98-11eb-8b27-a67367cc428b.png)
 
 - Accommodation 
